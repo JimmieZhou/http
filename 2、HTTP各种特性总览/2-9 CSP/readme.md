@@ -1,13 +1,9 @@
-<!--
- * @Description: In User Settings Edit
- * @Author: your name
- * @Date: 2019-09-24 11:16:26
- * @LastEditTime: 2019-09-24 11:28:46
- * @LastEditors: Please set LastEditors
- -->
-## CSP
-> Content-Security-Policy，内容安全策略
 
-## 限制方式
+## 1、CSP
+
+### 1.1 CSP作用
+> 限制网页中资源的获取情况
+
+### 1.2 限制方式
 - default-src限制全局
 - 指定资源类型 ![图片](./资源类型.jpg)
