@@ -8,6 +8,7 @@
 const http = require('http')
 
 http.createServer((req, res) => {
+  console.log('request comes...')
   res.writeHead(200,{
     'Access-Control-Allow-Origin' : 'http://127.0.0.1:3000'
   })

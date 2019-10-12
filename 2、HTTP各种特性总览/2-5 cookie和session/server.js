@@ -1,10 +1,4 @@
-/*
- * @Description: In User Settings Edit
- * @Author: your name
- * @Date: 2019-09-23 13:57:06
- * @LastEditTime: 2019-09-23 17:15:09
- * @LastEditors: Please set LastEditors
- */
+
 const http = require('http')
 const fs = require('fs')
 
